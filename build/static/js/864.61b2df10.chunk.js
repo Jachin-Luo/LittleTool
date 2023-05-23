@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_reduxjs_toolkit_ts_craco=self.webpackChunkreact_reduxjs_toolkit_ts_craco||[]).push([[864],{9864:function(t,r,c){c.r(r),c.d(r,{default:function(){return n}});c(2791);var e=c(184);function n(){return(0,e.jsx)("div",{children:(0,e.jsx)("h1",{children:"LOGIN"})})}}}]);
+//# sourceMappingURL=864.61b2df10.chunk.js.map

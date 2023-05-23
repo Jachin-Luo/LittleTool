@@ -5,6 +5,7 @@ import reportWebVitals from './reportWebVitals';
 import { BrowserRouter, HashRouter } from 'react-router-dom'
 import { Provider } from 'react-redux'
 import store from '@/store/index'
+import 'antd/dist/reset.css';
 //mock-------------------------------------
 import Mock from 'mockjs';
 if (process.env.NODE_ENV === 'development') {
